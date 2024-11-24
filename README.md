@@ -1,0 +1,2 @@
+# Code--Journey
+MY FIRST GIT REPOSITORY
